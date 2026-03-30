@@ -20,20 +20,20 @@
 
 ## 安装
 
-推荐方式是先把语言包仓库下载到本地，再执行安装器：
+推荐方式是直接克隆项目仓库，然后在仓库目录里执行安装器：
 
 ```bash
-git clone <你的语言包仓库地址> coder-sc-i18n
-cd coder-sc-i18n
+git clone https://github.com/AIALRA-0/Coder-Simplified-Chinese.git
+cd Coder-Simplified-Chinese
 sudo ./install.sh
 ```
 
-如果你希望使用远程归档引导安装，也可以显式提供归档地址：
+如果 nginx 自动检测出了多个候选配置文件，或者你希望显式指定部署参数，请直接在部署命令里传入：
 
 ```bash
-curl -fsSL <你的-install.sh-地址> -o install.sh
-chmod +x install.sh
-CODER_SC_ARCHIVE_URL=<你的语言包归档地址> sudo ./install.sh --nginx-conf /etc/nginx/conf.d/coder.conf
+git clone https://github.com/AIALRA-0/Coder-Simplified-Chinese.git
+cd Coder-Simplified-Chinese
+sudo ./install.sh --nginx-conf /etc/nginx/conf.d/coder.conf
 ```
 
 ## 安装前提
