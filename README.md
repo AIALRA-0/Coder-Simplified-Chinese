@@ -1,6 +1,7 @@
 # Coder 简体中文语言包
 
 这是一个面向 Coder 的简体中文语言包。它通过“外部运行时脚本 + locale 覆盖层”的方式工作，因此不会改动上游 Coder 镜像，也不会破坏原有文件结构。
+<img width="1164" height="909" alt="image" src="https://github.com/user-attachments/assets/a1f23e4f-a579-4516-9ec0-2f8093782e1f" />
 
 ## 支持版本
 
