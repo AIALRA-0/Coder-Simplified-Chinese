@@ -334,7 +334,7 @@
     "Workspace folder": "工作区目录",
     "Local folder name for the cloned repository.": "克隆仓库后的本地目录名称",
     "OneDev repository URL": "OneDev 仓库地址",
-    "HTTP clone URL for the FlowLab repository.": "工作区仓库的 HTTP 克隆地址",
+    "HTTP clone URL for the workspace repository.": "工作区仓库的 HTTP 克隆地址",
     "Create workspace form": "创建工作区表单",
     "Clear": "清空",
     "Open": "打开",

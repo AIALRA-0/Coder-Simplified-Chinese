@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "code": "PRIVATE_IPV4",
+      "path": "assets/i18n/coder-locales/en-US.json",
+      "match_sha256": "67e0142bdc18c8dda9d289b2839874edd9419bdb643cad0bc77ead24bbf7f0c0",
+      "occurrences": 2,
+      "reason": "Coder upstream help-text example preserved as the runtime exact-match source key and fallback value"
+    },
+    {
+      "code": "PRIVATE_IPV4",
+      "path": "assets/i18n/coder-locales/zh-CN.json",
+      "match_sha256": "67e0142bdc18c8dda9d289b2839874edd9419bdb643cad0bc77ead24bbf7f0c0",
+      "occurrences": 2,
+      "reason": "Coder upstream help-text example preserved as the runtime exact-match source key and translated value"
+    }
+  ]
+}

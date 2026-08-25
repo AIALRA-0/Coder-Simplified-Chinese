@@ -1,0 +1,8 @@
+# Keep Linux deployment entry points executable and free of carriage returns.
+*.sh text eol=lf
+*.py text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.env text eol=lf
+*.svg text eol=lf
